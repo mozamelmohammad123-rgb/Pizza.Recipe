@@ -1,6 +1,4 @@
-# Pizza.Recipe
-
-# Halal Mixed Pepperoni-Meat Pizza  
+# Pizza.Recipe - # Halal Mixed Pepperoni-Meat Pizza  
 
 ## Ingredients
 - Halal Pepperoni | 200g | Sliced 
